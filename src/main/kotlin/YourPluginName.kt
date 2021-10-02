@@ -1,7 +1,7 @@
 import org.bukkit.Bukkit
 import org.bukkit.plugin.java.JavaPlugin
 
-class YourPlugin: JavaPlugin() {
+class YourPluginName: JavaPlugin() {
     override fun onEnable() {
         Bukkit.getConsoleSender().sendMessage("Hello world!")
     }
