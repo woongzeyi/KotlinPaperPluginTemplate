@@ -1,0 +1,4 @@
+main: YourPlugin
+name: YourPlugin
+version: 1.0-SNAPSHOT
+api-version: 1.17
